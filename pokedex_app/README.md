@@ -1,5 +1,8 @@
 # Pokedex Backend
 
+# STUDENT NOTE:
+# RENAMED FOLDER TO POKEAPP WHATEVER.. FRONT END HAS REACT FRONT END
+
 This is the backend for the Pokedex exercises.
 
 ## Getting started
